@@ -1,6 +1,6 @@
 {
   "version": "66.28.1",
-  "download_url": "https://github.com/smallprg-source/easyapproval/releases/download/v66.28.1/EasyApprovalServer.exe",
+  "download_url": "https://github.com/smallprg-source/easyapproval/releases/download/v66.28.1/EasyApproval.exe",
   "sha256":"2547cb98fa15617e586720635b7dbda4d3d388289b4beced8e24aed3dc08f933",
   "required": false,
   "notes": "보안코드 업데이트 및 자동업데이트 기능 추가"
